@@ -1,2 +1,2 @@
 # QR-Code
-Live url:https://kobakhachidze.github.io/QR-Code/
+Live URL:https://kobakhachidze.github.io/QR-Code/
